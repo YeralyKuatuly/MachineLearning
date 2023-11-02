@@ -15,7 +15,7 @@ To run the code in this project, you'll need the following libraries installed:
 Install all needed libraries (hint: you can use !pip install [library] in jupyter)
 
 ## Getting Started
-- Clone the repository: git clone https://github.com/your-username/your-project.git
+- Clone the repository: git clone https://github.com/YeralyKuatuly/MachineLearning.git
 - Run the Jupyter Notebook: jupyter notebook HousePrices.ipynb
 In the Jupyter Notebook, you will find the Python code (HousePrices.ipynb) that loads the data from housing.csv, explores the dataset, preprocesses the data, and trains Machine Learning models for predicting house prices.
   
